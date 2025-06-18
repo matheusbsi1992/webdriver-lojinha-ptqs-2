@@ -78,7 +78,7 @@ public class ProdutoTest //extends LoginTest
     //@Order(3)
     public void test03IdentificarValorEntreUmCentavoESeteMilDoProduto(){
         //informar nome do produto
-        produtoPage.setProdutoNome("Balarama Melada Lagartense - 2024");
+        produtoPage.setProdutoNome("Balarama Melada Lagartense - 2025");
         //informar valor do produto zerado
         produtoPage.setProdutoValor("115.05");
         //informar cores do produto
@@ -103,7 +103,7 @@ public class ProdutoTest //extends LoginTest
         //@Order(3)
         public void test04IdentificarValordeUmCentavoProduto(){
             //informar nome do produto
-            produtoPage.setProdutoNome("Balarama Melada Lagartense - 2024");
+            produtoPage.setProdutoNome("Balarama Melada Lagartense - 2025");
             //informar valor do produto zerado
             produtoPage.setProdutoValor("0.01");
             //informar cores do produto
@@ -128,7 +128,7 @@ public class ProdutoTest //extends LoginTest
         //@Order(3)
         public void test05IdentificarValordeSeteMilReaisProduto(){
             //informar nome do produto
-            produtoPage.setProdutoNome("Balarama Melada Lagartense - 2024");
+            produtoPage.setProdutoNome("Balarama Melada Lagartense - 2025");
             //informar valor do produto zerado
             produtoPage.setProdutoValor("7.000,00");
             //informar cores do produto
